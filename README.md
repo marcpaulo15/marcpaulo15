@@ -1,7 +1,10 @@
 # Hi 👋, I'm Marc!
 
-## 🚀 Data Scientist [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marc-paulo-molina" height="30" width="40" />](https://linkedin.com/in/www.linkedin.com/in/marc-paulo-molina)
-## 🚀 X2 Kaggle Expert [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marcpaulo" height="30" width="40" />](https://www.kaggle.com/marcpaulo)
+### 🚀 Data Scientist&emsp;[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marc-paulo-molina" height="20" width="20" />](https://linkedin.com/in/www.linkedin.com/in/marc-paulo-molina)
+
+### 🚀 X2 Kaggle Expert&emsp; [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marcpaulo" height="20" width="20" />](https://www.kaggle.com/marcpaulo)
+
+---
 
 ### 🌱 I'm interested in: 🌱
 - Machine Learning Algorithms
@@ -9,7 +12,9 @@
 - Deep Learning
 - Reinforcement Learning
 
-## Languages and Tools:
+---
+
+### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)&emsp;&emsp;&emsp;
@@ -19,4 +24,3 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/)
 [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)
 [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org/)
-
