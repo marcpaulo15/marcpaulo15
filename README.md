@@ -2,7 +2,7 @@
 
 ### 🚀 Data Scientist&emsp;[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marc-paulo-molina" height="20" width="20" />](https://www.linkedin.com/in/marc-paulo-molina/)
 
-### 🚀 X2 Kaggle Expert&emsp; [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marcpaulo" height="20" width="20" />](https://www.kaggle.com/marcpaulo)
+### 🚀 Kaggle Expert&emsp; [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marcpaulo" height="20" width="20" />](https://www.kaggle.com/marcpaulo)
 
 ---
 
